@@ -2,5 +2,6 @@
 
 The CLF distribution can be found at the Johnson & Johnson GitHub Account.
 
-[CFL Distribution](https://github.com/johnsonandjohnson/openmrs-distro-cfl)
+You can find it here [here](https://github.com/johnsonandjohnson/openmrs-distro-cfl)
 
+All repositories in this organization have now been archived.
