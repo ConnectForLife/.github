@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ConnectForLife/.github/main/profile/img/we_moved.jpg?raw=true" width="256" height="256" />
 </p>
-The CLF distribution can now be found at the **Johnson & Johnson GitHub Account**.
+The CLF distribution can now be found at the <strong>Johnson & Johnson GitHub Account</strong>.
 
 You can find it here: [CFL Distribution](https://github.com/johnsonandjohnson/openmrs-distro-cfl)
 
