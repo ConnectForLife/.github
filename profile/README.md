@@ -1,6 +1,6 @@
 # Connect for Life has moved
 
-![We've Moved](img/we_moved.jpg?raw=true "We've Moved")
+![We've Moved](https://raw.githubusercontent.com/ConnectForLife/.github/main/profile/img/we_moved.jpg?raw=true "We've Moved")
 
 The CLF distribution can now be found at the **Johnson & Johnson GitHub Account**.
 
